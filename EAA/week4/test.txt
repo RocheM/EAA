@@ -1,0 +1,30 @@
+     33 Bourne-Again shell script
+      1 broken symbolic link to /etc/alternatives/policytool
+   1302 ELF 64-bit LSB executable
+      1 executable
+      1 Lua script
+     57 Perl script
+    182 POSIX shell script
+     57 Python script
+      1 Ruby module source
+      8 Ruby script
+      1 setgid ELF 64-bit LSB shared object
+      2 setgid executable
+     13 setuid ELF 64-bit LSB shared object
+      3 setuid executable
+    192 symbolic link to aplay \n
+     33 Bourne-Again shell script
+      1 broken symbolic link to /etc/alternatives/policytool
+   1302 ELF 64-bit LSB executable
+      1 executable
+      1 Lua script
+     57 Perl script
+    182 POSIX shell script
+     57 Python script
+      1 Ruby module source
+      8 Ruby script
+      1 setgid ELF 64-bit LSB shared object
+      2 setgid executable
+     13 setuid ELF 64-bit LSB shared object
+      3 setuid executable
+    192 symbolic link to aplay \n
